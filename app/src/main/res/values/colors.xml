@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="techies_color">#ffd07338</color>
+    <color name="winter_wyvern_color">#ff86f8ea</color>
+    <color name="invoker_default_color">#ff71244a</color>
+    <color name="invoker_quas_color">#ff206fd8</color>
+    <color name="invoker_wex_color">#ffce6dd6</color>
+    <color name="invoker_exort_color">#ffdca138</color>
+    <color name="earth_spirit_color">#ff4d7803</color>
+    <color name="templar_assassin_color">#ffe257cb</color>
+</resources>

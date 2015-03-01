@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/invoker_quas"
+            android:title="@string/invoker_quas"/>
+        <item android:id="@+id/invoker_wex"
+            android:title="@string/invoker_wex"/>
+        <item android:id="@+id/invoker_exort"
+            android:title="@string/invoker_exort"/>
+    </group>
+</menu>

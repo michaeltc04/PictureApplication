@@ -1,0 +1,26 @@
+<resources>
+
+    //Activity Names
+    <string name="app_name">PictureApplication</string>
+    <string name="title_activity_settings">Settings</string>
+
+    //Titles
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="back">Back</string>
+    <string name="forward">Forward</string>
+
+    //Sentences
+    <string name="settings_text_view">Who is your favorite hero?</string>
+
+    //Hero Names
+    <string name="techies_string">Techies</string>
+    <string name="winter_wyvern_string">Winter Wyvern</string>
+    <string name="invoker_string">Invoker</string>
+    <string name="invoker_quas">Quas</string>
+    <string name="invoker_wex">Wex</string>
+    <string name="invoker_exort">Exort</string>
+    <string name="earth_spirit_string">Earth Spirit</string>
+    <string name="templar_assassin_string">Templar Assassin</string>
+
+</resources>
